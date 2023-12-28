@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AvishiktaChakraborty
-- 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently learning more about Data Science with Python
-- 💞️ I’m looking to collaborate on Web Development and Python Projects
+- 👀 I’m interested in Software development and has experience in Salesforce
+- 🌱 I’m currently a Salesforce Developer
+- 💞️ I’m actively looking for suitable jobs
 - 📫 e-mail: ac.work109@gmail.com
 
 <!---
